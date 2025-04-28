@@ -29,7 +29,3 @@ This interactive dashboard analyzes the environmental impact of different diet g
    !python your_dashboard_script.py
    ```
 
-## Notes
-- Designed to fit on a MacBook Air M1 screen without overflow.
-- Compact and clear visualization layout.
-
