@@ -1,5 +1,8 @@
 # Diet & Environmental Impact Dashboard
 
+Name - Jaswant Singh
+Student ID - 20619497
+
 ## Overview
 This interactive dashboard analyzes the environmental impact of different diet groups across multiple factors such as greenhouse gas emissions, land use, water scarcity, and biodiversity impact. 
 
